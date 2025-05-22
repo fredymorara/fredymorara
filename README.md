@@ -44,11 +44,13 @@ I work with a diverse range of technologies, with some of my core skills visuall
 ## 📜 My Credentials & Learning Path
 
 *   **BSc in Information Technology:** Kabarak University (Currently 4th Year, Sem 1).
-*   **Certifications:**
-    *   Web Development Fundamentals (IBM SkillsBuild)
-    *   JavaScript Essentials 1 (Cisco NetAcad)
-    *   JavaScript Essentials 2 (Cisco NetAcad)
-    *   *You can view my verified badges on [Credly](https://www.credly.com/users/capsboost).*
+*   **Certifications:** *Click on a badge to verify.*
+    <p align="left">
+      <a href="https://www.credly.com/badges/9f293a6d-d5a7-4e12-989a-7caec75c8bbd/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/ibm-web-dev-fundamentals.png" alt="Web Development Fundamentals Badge (IBM SkillsBuild)" width="130"></a>  
+      <a href="https://www.credly.com/badges/2f611a84-0c6b-47e8-8bbe-60611b834fb0/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-1.png" alt="JavaScript Essentials 1 Badge (Cisco NetAcad)" width="130"></a>  
+      <a href="https://www.credly.com/badges/3068b105-755a-413b-9120-5d2462b360f3/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-2.png" alt="JavaScript Essentials 2 Badge (Cisco NetAcad)" width="130"></a>
+    </p>
+    You can also view all my verified badges on my [Credly Profile](https://www.credly.com/users/capsboost).
 
 ---
 
@@ -80,6 +82,6 @@ When I'm not coding or diving into new tech, you can often find me strategizing 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fredymorara&show_icons=true&theme=radical&rank_icon=github" alt="Fredrick Morara's GitHub stats" />
-  <br/> <!-- Added a line break for better spacing if stats are tall -->
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredymorara&layout=compact&theme=radical" alt="Top Langs" />
 </p>
