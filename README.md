@@ -1,8 +1,41 @@
 # Hi there, I'm Fredrick Momanyi Morara! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHIzemtiMnoycXd1d2dyMXM2dDN4ZWpjOTF4NWtsd3l1dWdvMXJudyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YYW0hHizzIOrlhimPG/giphy.gif" alt="Coding GIF" width="600"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,react,nextjs,html,css,tailwind,bootstrap,nodejs,express,flask,flutter,androidstudio,mongodb,mysql,git,github,vscode&perline=11" alt="My Tech Stack"/>
+  </a>
 </p>
+<!--
+Alternative way if you want more control or different icons:
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/>  
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40"/>  
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40"/>  
+  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" height="40"/>  
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40"/>  
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40"/>  
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40"/>  
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="Next.js" height="40"/>  
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40"/>  
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="40"/>  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="40"/>
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" height="40"/>  
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40"/>  
+  <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" height="40"/>  
+  <img src="https://cdn.simpleicons.org/flask/000000" alt="Flask" height="40"/>  
+  <img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" height="40"/>  
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" alt="Android Studio" height="40"/>  
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40"/>  
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40"/>  
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40"/>  
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="40"/>  
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" height="40"/>
+  <!-- Add Ant Design and Colab if you find good, consistent SVGs for them, or use text if needed -->
+  <!-- For Ant Design: <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" height="40"/> (Official, but might not fit stylistically with Simple Icons without adjustments) -->
+</p>
+-->
 
 ## 🚀 About Me
 
@@ -12,9 +45,9 @@ I believe in the power of continuous learning and am actively expanding my skill
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Stack (Detailed)
 
-Here are some of the technologies and tools I work with:
+Beyond the icons above, here's a more detailed breakdown:
 
 *   **Languages:** `Python`, `JavaScript`, `TypeScript`, `Java`, `C`, `C++`, `Visual Basic`
 *   **Frontend:** `React`, `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap`, `Ant Design (antd)`
