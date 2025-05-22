@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,react,nextjs,html,css,tailwind,bootstrap,nodejs,express,flask,flutter,androidstudio,mongodb,mysql,git,github,vscode&perline=11" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,react,nextjs,html,css,tailwind,bootstrap,nodejs,express,flask,flutter,androidstudio,mongodb,mysql,git,github,vscode&perline=11" alt="My Tech Stack: Python, JavaScript, TypeScript, Java, C, C++, React, Next.js, HTML, CSS, Tailwind, Bootstrap, Node.js, Express, Flask, Flutter, Android Studio, MongoDB, MySQL, Git, GitHub, VS Code"/>
   </a>
 </p>
 
