@@ -1,4 +1,4 @@
-# Hi there, I'm Fredrick Momanyi Morara! 👋
+<h1 align="center">Hi there, I'm Fredrick Momanyi Morara! 👋</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
