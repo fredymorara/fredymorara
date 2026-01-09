@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend-focused Developer** with a strong proficiency in **React**, driven by a deep curiosity for how technology works. My ambition is to grow into a versatile **Full-Stack Developer**, mastering **AWS Cloud** technologies, and gaining expertise in **Cybersecurity**.
+I'm a **Frontend-focused Developer** with a strong proficiency in **React**, driven by a deep curiosity for how technology works. My ambition is to grow into a versatile **Full-Stack Developer**.
 
 > I believe in the power of **continuous learning** and am always eager to explore new tools and paradigms that can help create impactful solutions.
 
@@ -22,7 +22,6 @@ My journey into development was sparked by a lifelong passion for coding and und
 
 *   🚀 Deeply immersed in a **Generative AI bootcamp**, exploring everything from AI/ML fundamentals, Deep Learning, Neural Networks (CNNs, RNNs), to Transformers, and building RAG applications & AI agents.
 *   🛠️ Actively strengthening my **full-stack capabilities**.
-*   ☁️ Exploring **cloud computing** (with a keen interest in AWS) and **cybersecurity principles**.
 *   🎓 Progressing through my final year of BSc in Information Technology.
 
 ---
@@ -33,8 +32,7 @@ I work with a diverse range of technologies, with some of my core skills visuall
 
 *   **Languages:** `Python`, `JavaScript`, `TypeScript`, `Java`, `C`, `C++`, `Visual Basic`
 *   **Frontend:** `React`, `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap`, `Ant Design (antd)`
-*   **Backend:** `Node.js`, `Express.js`, `Flask`
-*   **Mobile:** `Flutter`, `Android Studio`
+*   **Backend:** `Node.js`, `Express.js`
 *   **Databases:** `MongoDB`, `MySQL`
 *   **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Google Colab`
 *   **Methodologies & Others:** `REST API Design`, `Axios`, `Agile Methodologies`, `UI/UX Basics`
@@ -57,7 +55,7 @@ I work with a diverse range of technologies, with some of my core skills visuall
 ## 🤝 Let's Connect & Collaborate!
 
 I'm enthusiastic about opportunities to learn, grow, and contribute. I'm open to:
-*   Collaborating on innovative projects (especially in AI, Web Dev, or Cloud).
+*   Collaborating on innovative projects (especially in AI, Web Dev).
 *   Job opportunities where I can apply and expand my skills.
 *   Internships to gain practical industry experience.
 *   Mentorship (both receiving guidance and sharing what I know).
@@ -69,8 +67,6 @@ If you have an exciting idea, a potential opportunity, or just want to discuss t
 ## 📫 Get in Touch
 
 *   **Email:** [momanyifredm@gmail.com](mailto:momanyifredm@gmail.com)
-*   **LinkedIn:** [Your LinkedIn Profile URL - *Add this when you have it*]
-*   **Portfolio:** [Your Portfolio Website URL - *Add this when you have it*]
 
 ---
 
