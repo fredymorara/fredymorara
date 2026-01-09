@@ -75,9 +75,3 @@ If you have an exciting idea, a potential opportunity, or just want to discuss t
 When I'm not coding or diving into new tech, you can often find me strategizing in **Call of Duty Mobile** 🔫 or immersing myself in the captivating worlds of **Anime** 🍥!
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredymorara&show_icons=true&theme=radical&rank_icon=github" alt="Fredrick Morara's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredymorara&layout=compact&theme=radical" alt="Top Langs" />
-</p>
