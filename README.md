@@ -48,7 +48,7 @@ I work with a diverse range of technologies, with some of my core skills visuall
       <a href="https://www.credly.com/badges/2f611a84-0c6b-47e8-8bbe-60611b834fb0/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-1.png" alt="JavaScript Essentials 1 Badge (Cisco NetAcad)" width="130"></a>  
       <a href="https://www.credly.com/badges/3068b105-755a-413b-9120-5d2462b360f3/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-2.png" alt="JavaScript Essentials 2 Badge (Cisco NetAcad)" width="130"></a>
     </p>
-    You can also view all my verified badges on my [Credly Profile](https://www.credly.com/users/capsboost).
+    You can also view all my verified badges on my [Credly Profile](https://www.credly.com/users/freddymorara).
 
 ---
 
