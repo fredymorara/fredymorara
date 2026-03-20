@@ -47,7 +47,7 @@ I work with a diverse range of technologies, with some of my core skills visuall
       <a href="https://www.credly.com/badges/9f293a6d-d5a7-4e12-989a-7caec75c8bbd/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/ibm-web-dev-fundamentals.png" alt="Web Development Fundamentals Badge (IBM SkillsBuild)" width="130"></a>  
       <a href="https://www.credly.com/badges/2f611a84-0c6b-47e8-8bbe-60611b834fb0/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-1.png" alt="JavaScript Essentials 1 Badge (Cisco NetAcad)" width="130"></a>  
       <a href="https://www.credly.com/badges/3068b105-755a-413b-9120-5d2462b360f3/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-2.png" alt="JavaScript Essentials 2 Badge (Cisco NetAcad)" width="130"></a>
-      <a href="https://www.skills.google/public_profiles/78d400f3-70fd-4172-8500-8f4349a66378/badges/22933190" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-2.png" alt="JavaScript Essentials 2 Badge (Cisco NetAcad)" width="130"></a>
+      <a href="https://www.skills.google/public_profiles/78d400f3-70fd-4172-8500-8f4349a66378/badges/22933190" target="_blank" rel="noopener noreferrer"><img src="assets/Responsible AI badge.png" alt="Introduction to Responsible AI (Google)" width="130"></a>
     </p>
     You can also view all my verified badges on my [Credly Profile](https://www.credly.com/users/freddymorara).
 
