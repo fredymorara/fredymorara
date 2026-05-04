@@ -16,15 +16,6 @@ I'm a **Frontend-focused Developer** with a strong proficiency in **React**, dri
 
 My journey into development was sparked by a lifelong passion for coding and understanding the inner workings of the tech I use every day. I'm currently a 4th-year **BSc Information Technology** student at Kabarak University.
 
----
-
-## 🌱 What I'm Currently Up To
-
-*   🚀 Deeply immersed in a **Generative AI bootcamp**, exploring everything from AI/ML fundamentals, Deep Learning, Neural Networks (CNNs, RNNs), to Transformers, and building RAG applications & AI agents.
-*   🛠️ Actively strengthening my **full-stack capabilities**.
-*   🎓 Progressing through my final year of BSc in Information Technology.
-
----
 
 ## 💻 My Tech Arsenal
 
