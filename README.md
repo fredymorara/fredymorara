@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,mysql,git,github,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,mysql,git,vscode" alt="Tech Stack" />
   </a>
 </p>
 
@@ -18,23 +18,22 @@ I'm a **Full Stack Developer** and **AI Engineer** with a passion for building i
 
 > I believe in the power of **continuous learning** and am always eager to explore new tools, frameworks, and AI paradigms that can help create impactful solutions.
 
-My journey into development was sparked by a lifelong passion for coding and understanding how technology works. I'm currently a 4th-year **BSc Information Technology** student at Kabarak University, actively working on projects that combine full-stack development with AI/ML capabilities.
+My journey into development was sparked by a lifelong passion for coding and understanding how technology works. I'm currently a 4th-year **BSc Information Technology** student at Kabarak University, actively working on projects that combine full-stack development with AI capabilities.
 
 ---
 
 ## 💻 My Tech Arsenal
 
-I work with a diverse range of technologies across the full development stack and AI/ML domain:
+I work with a diverse range of technologies across the full development stack and AI domain:
 
-*   **Languages:** `Python`, `JavaScript`, `TypeScript`, `Java`, `C`, `C++`, `Visual Basic`
-*   **Frontend:** `React`, `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap`, `Ant Design (antd)`
+*   **Languages:** `Python`, `JavaScript`, `TypeScript`
+*   **Frontend:** `React`, `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS`
 *   **Backend:** `Node.js`, `Express.js`, `Flask`, `FastAPI`
-*   **AI & Machine Learning:** `TensorFlow`, `PyTorch`, `scikit-learn`, `LLMs`, `NLP`, `Computer Vision`
-*   **Databases:** `MongoDB`, `MySQL`, `PostgreSQL`, `Vector Databases`
-*   **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Google Colab`, `Docker`, `Google Cloud`
-*   **Methodologies & Others:** `REST API Design`, `Axios`, `Agile Methodologies`, `UI/UX Basics`, `Model Deployment`
+*   **AI:** `OpenAI API`, `Microsoft Azure Foundry`, `Microsoft Agent Framework`
+*   **Databases:** `MongoDB`, `MySQL`, `PostgreSQL`, `ChromaDB`,`Pinecone`
+*   **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Microsoft Azure`, `Amazon Web Services`
 
-
+---
 
 ## 🎯 What I'm Working On
 
@@ -60,17 +59,17 @@ If you have an exciting idea, a potential opportunity, or just want to discuss t
 ## 📫 Get in Touch
 
 *   **Email:** [momanyifredm@gmail.com](mailto:momanyifredm@gmail.com)
-*   **LinkedIn:** [https://www.linkedin.com/in/freddymorara](#)
-*   **Portfolio:** [https://freddymorara.tech](#)
+*   **LinkedIn:** [https://www.linkedin.com/in/freddymorara](https://www.linkedin.com/in/freddymorara)
+*   **Portfolio:** [https://freddymorara.tech](https://freddymorara.tech)
 
 ---
 
 ## ✨ Fun Fact
 
-When I'm not coding, building AI models, or diving into new tech, you can often find me strategizing in **Call of Duty Mobile** 🔫 or immersing myself in the captivating worlds of **Anime** 🍥!
+When I'm not coding, building AI models, or diving into new tech, you can often find me strategizing in **Call of Duty Mobile** or immersing myself in the captivating worlds of **Anime** !
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! Let's build something amazing together! 🚀</i>
+  <i>Thanks for visiting my profile! Let's build something amazing together! </i>
 </p>
