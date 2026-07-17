@@ -34,29 +34,12 @@ I work with a diverse range of technologies across the full development stack an
 *   **Tools & Platforms:** `Git`, `GitHub`, `VS Code`, `Google Colab`, `Docker`, `Google Cloud`
 *   **Methodologies & Others:** `REST API Design`, `Axios`, `Agile Methodologies`, `UI/UX Basics`, `Model Deployment`
 
----
 
-## 📜 My Credentials & Learning Path
-
-*   **BSc in Information Technology:** Kabarak University (Awaiting Graduation).
-*   **Certifications:** *Click on a badge to verify.*
-    <p align="left">
-      <a href="https://www.credly.com/badges/9f293a6d-d5a7-4e12-989a-7caec75c8bbd/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/ibm-web-dev-fundamentals.png" alt="Web Development Fundamentals" /></a>
-      <a href="https://www.credly.com/badges/2f611a84-0c6b-47e8-8bbe-60611b834fb0/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-1.png" alt="JavaScript Essentials 1" /></a>
-      <a href="https://www.credly.com/badges/3068b105-755a-413b-9120-5d2462b360f3/public_url" target="_blank" rel="noopener noreferrer"><img src="assets/cisco-js-essentials-2.png" alt="JavaScript Essentials 2" /></a>
-      <a href="https://www.skills.google/public_profiles/78d400f3-70fd-4172-8500-8f4349a66378/badges/22933190" target="_blank" rel="noopener noreferrer"><img src="assets/res-ai.png" alt="Introduction to AI" /></a>
-    </p>
-    
-You can also view more of my verified badges on my [Credly Profile](https://www.credly.com/users/freddymorara).
-
----
 
 ## 🎯 What I'm Working On
 
 *   🤖 Building AI-powered applications and integrations
 *   🌐 Full-stack solutions with intelligent backends
-*   🔬 Exploring advanced ML/AI architectures and LLMs
-*   📖 Contributing to open-source projects
 *   💡 Sharing knowledge on full-stack development and AI engineering
 
 ---
@@ -77,9 +60,8 @@ If you have an exciting idea, a potential opportunity, or just want to discuss t
 ## 📫 Get in Touch
 
 *   **Email:** [momanyifredm@gmail.com](mailto:momanyifredm@gmail.com)
-*   **LinkedIn:** [Add your LinkedIn URL](#)
-*   **Twitter/X:** [Add your Twitter URL](#)
-*   **Portfolio:** [Add your portfolio URL](#)
+*   **LinkedIn:** [https://www.linkedin.com/in/freddymorara](#)
+*   **Portfolio:** [https://freddymorara.tech](#)
 
 ---
 
